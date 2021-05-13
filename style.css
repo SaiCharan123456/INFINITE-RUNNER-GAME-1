@@ -3,9 +3,10 @@ html, body {
   padding: 0;
 }
 canvas { 
-  margin-left: 370px;
-  margin-right: 20px;
-  margin-top: 200px;
+  margin-left: 180px;
+  margin-right: 100px;
+  margin-top: 150px;
+  margin-bottom:50px;
   border: 4px solid black;
   display: block;
 }
